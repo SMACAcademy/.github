@@ -1,1 +1,3 @@
-# .github
+SMAC Academy
+
+Social, Mobility, Analytics and Cloud
